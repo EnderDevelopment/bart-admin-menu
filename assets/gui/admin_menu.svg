@@ -1,0 +1,10 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <rect width="16" height="16" fill="#333333" />
+  <text x="8" y="3" font-family="Arial" font-size="1" fill="#FFFFFF" text-anchor="middle">Bart Admin Menu</text>
+  <rect x="2" y="5" width="12" height="2" fill="#444444" />
+  <text x="8" y="6.5" font-family="Arial" font-size="0.8" fill="#FFFFFF" text-anchor="middle">Option 1</text>
+  <rect x="2" y="8" width="12" height="2" fill="#444444" />
+  <text x="8" y="9.5" font-family="Arial" font-size="0.8" fill="#FFFFFF" text-anchor="middle">Option 2</text>
+  <rect x="2" y="11" width="12" height="2" fill="#444444" />
+  <text x="8" y="12.5" font-family="Arial" font-size="0.8" fill="#FFFFFF" text-anchor="middle">Option 3</text>
+</svg>

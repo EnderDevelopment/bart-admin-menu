@@ -1,0 +1,8 @@
+name: Bart
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  bart:
+    description: Opens the Bart admin menu.
+    usage: /bart
